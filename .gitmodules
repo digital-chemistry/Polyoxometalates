@@ -1,0 +1,6 @@
+[submodule "cub-isomeriser"]
+	path = cub-isomeriser
+	url = git@github.com:digital-chemistry/cub-isomeriser.git
+[submodule "pov_isomeriser"]
+	path = pov_isomeriser
+	url = git@github.com:digital-chemistry/cub-isomeriser.git
